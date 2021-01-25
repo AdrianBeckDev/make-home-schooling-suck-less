@@ -1,4 +1,4 @@
-# For boring and useless lessons 
+# For boring and useless lessons or lectures
 # Makes a loud tone whenever your name is called 
 
 import speech_recognition as sr
