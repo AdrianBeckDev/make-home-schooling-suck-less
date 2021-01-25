@@ -4,4 +4,4 @@ post your wanted feature j @K3rmit
 
 ##  How to build 
 
-    pip install - R requirements.txt
+    pip install -R requirements.txt
